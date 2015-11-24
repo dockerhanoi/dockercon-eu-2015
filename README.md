@@ -39,7 +39,7 @@
 - Monitoring and managing dynamic Docker environments
 
 ## Youtube
-Day 1 General section: https://www.youtube.com/watch?v=fLfFFtOHRZQ
-Day 2 General section: https://www.youtube.com/watch?v=i8YM4bkpR-E
-Day 2 Closing general section: https://www.youtube.com/watch?v=ZBcMy-_xuYk
+- Day 1 General section: https://www.youtube.com/watch?v=fLfFFtOHRZQ
+- Day 2 General section: https://www.youtube.com/watch?v=i8YM4bkpR-E
+- Day 2 Closing general section: https://www.youtube.com/watch?v=ZBcMy-_xuYk
 
